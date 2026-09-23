@@ -1,7 +1,20 @@
 ---
-title: "emaliap.github.io"
+title: "Emalia Partlow"
+image: "images/profile.jpg"
+toc: false
+about:
+    template: jolla
+    image-shape: round
+    image-width: 17em
+    links:
+        - text: LinkedIn
+          href: https://linkedin.com/in/emalia-partlow-192006282
+          target: _blank
+        - text: Email
+          href: mailto:emaliapartlow107@gmail.com
+        - text: GitHub
+          href: https://github.com/emaliap
+          target: _blank
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is where my bio will go

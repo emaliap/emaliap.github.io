@@ -1,0 +1,34 @@
+/*-- scss:defaults --*/
+
+// Colors
+
+//# Misty forest
+$teal: #488286;
+$darkteal: #305252;
+$darkgrey: #373E40;
+$lightblue: #B7D5D4;
+$bluegrey: #77878B;
+
+//# Deep sea
+// $darknavy: #0D1321;
+// $navy: #1D2D44;
+// $blue: #3E5C76;
+// $lightblue: #748CAB;
+// $cream: #F0EBD8;
+
+// Assign to Quarto Sass variables
+// $navbar-bg: $blue;
+// $navbar-fg: $darknavy; 
+// $navbar-hl: $blue;
+// $body-bg: $lightblue;
+// $body-color: $darknavy;
+// $footer-bg: $lightblue;
+// $link-color: $darknavy;
+
+$navbar-bg: $teal;
+$navbar-fg: $darkgrey; 
+$navbar-hl: $darkteal;
+$body-bg: $lightblue;
+$body-color: $darkteal;
+$footer-bg: $lightblue;
+$link-color: $darkteal;

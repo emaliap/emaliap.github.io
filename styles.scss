@@ -2,33 +2,32 @@
 
 // Colors
 
-//# Misty forest
-$teal: #488286;
-$darkteal: #305252;
-$darkgrey: #373E40;
-$lightblue: #B7D5D4;
-$bluegrey: #77878B;
-
-//# Deep sea
-// $darknavy: #0D1321;
-// $navy: #1D2D44;
-// $blue: #3E5C76;
-// $lightblue: #748CAB;
-// $cream: #F0EBD8;
+$greyblue: #748CAB;
+$blue: #425d7d;
+$granite: #E0E1DD;
+$navy: #1b273d;
 
 // Assign to Quarto Sass variables
-// $navbar-bg: $blue;
-// $navbar-fg: $darknavy; 
-// $navbar-hl: $blue;
-// $body-bg: $lightblue;
-// $body-color: $darknavy;
-// $footer-bg: $lightblue;
-// $link-color: $darknavy;
 
-$navbar-bg: $teal;
-$navbar-fg: $darkgrey; 
-$navbar-hl: $darkteal;
-$body-bg: $lightblue;
-$body-color: $darkteal;
-$footer-bg: $lightblue;
-$link-color: $darkteal;
+$navbar-bg: $blue;
+$navbar-fg: $granite; 
+$navbar-hl: $greyblue;
+$body-bg: $greyblue;
+$body-color: $navy;
+$footer-bg: $greyblue;
+$link-color: $navy;
+
+// button text size (landing page)
+.about-link-text { 
+  font-size: 18px;
+}
+
+// button icon size (landing page)
+.bi { 
+  font-size: 18px;
+}
+
+// landing page text
+#bio {
+  font-size: 1.8em;
+}
